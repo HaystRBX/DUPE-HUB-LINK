@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HaystRBX/PSX-OP-DUPE-HUB/main/PSXOpScriptHubV2.lua"))()
